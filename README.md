@@ -1,4 +1,4 @@
-#placeholder
+#Template for projects
 
 # File Structure
 

@@ -26,6 +26,7 @@ When running the container using `dockerrun.sh`, the project directory is mounte
 ## Usage
 
 Building and running the container
+
 1 - Clone the repo and change directory into the repo:
 `git@github.com:YOUR_REPO_HERE`
 `cd YOUR_REPO`
